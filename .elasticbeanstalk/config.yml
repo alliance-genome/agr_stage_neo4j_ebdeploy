@@ -1,6 +1,6 @@
 branch-defaults:
-  master:
-    environment: neo4j-stage
+  main:
+    environment: stage-neo4j
 global:
   application_name: neo4j-server
   branch: null
